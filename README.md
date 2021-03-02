@@ -7,7 +7,7 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 
 - [ ] Singleton
 - [ ] Prototype
-- [ ] Builder
+- [X] Builder
 - [ ] Factory Method
 - [ ] Abstract Factory
 
@@ -34,3 +34,4 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 - [ ] Chain of Responsibility
 - [ ] Visitor
 - [ ] Interpreter
+
