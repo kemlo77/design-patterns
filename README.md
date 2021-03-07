@@ -5,11 +5,11 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 
 ## Creational Patterns
 
-- [ ] Singleton
-- [ ] Prototype
+- [X] Singleton
+- [X] Prototype
 - [X] Builder
-- [ ] Factory Method
-- [ ] Abstract Factory
+- [X] Factory Method
+- [X] Abstract Factory
 
 ## Structural Patterns
 
