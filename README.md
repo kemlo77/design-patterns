@@ -15,11 +15,11 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 
 - [ ] Proxy
 - [ ] Flyweight
-- [ ] Composite
+- [X] Composite
 - [X] Bridge
 - [ ] Facade
-- [ ] Decorator
-- [ ] Adapter
+- [X] Decorator
+- [X] Adapter
 
 # Behavioral Patterns
 
