@@ -17,7 +17,7 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 - [ ] Flyweight
 - [X] Composite
 - [X] Bridge
-- [ ] Facade
+- [X] Facade
 - [X] Decorator
 - [X] Adapter
 
