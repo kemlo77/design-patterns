@@ -14,7 +14,7 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 ## Structural Patterns
 
 - [ ] Proxy
-- [ ] Flyweight
+- [X] Flyweight
 - [X] Composite
 - [X] Bridge
 - [X] Facade
