@@ -13,7 +13,7 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 
 ## Structural Patterns
 
-- [ ] Proxy
+- [X] Proxy
 - [X] Flyweight
 - [X] Composite
 - [X] Bridge
