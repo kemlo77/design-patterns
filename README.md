@@ -21,7 +21,7 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 - [X] Decorator
 - [X] Adapter
 
-# Behavioral Patterns
+## Behavioral Patterns
 
 - [ ] Observer
 - [ ] Strategy
@@ -31,7 +31,7 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 - [ ] Memento
 - [ ] State
 - [ ] Mediator
-- [ ] Chain of Responsibility
+- [X] Chain of Responsibility
 - [ ] Visitor
 - [ ] Interpreter
 
