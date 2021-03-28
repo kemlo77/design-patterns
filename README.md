@@ -26,7 +26,7 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 - [ ] Observer
 - [ ] Strategy
 - [ ] Template method
-- [ ] Command
+- [X] Command
 - [ ] Iterator
 - [ ] Memento
 - [ ] State
