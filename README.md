@@ -27,11 +27,11 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 - [ ] Strategy
 - [ ] Template method
 - [X] Command
-- [ ] Iterator
+- [X] Iterator
 - [ ] Memento
 - [ ] State
 - [ ] Mediator
 - [X] Chain of Responsibility
 - [ ] Visitor
-- [ ] Interpreter
+- [X] Interpreter
 
