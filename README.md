@@ -30,7 +30,7 @@ The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
 - [X] Iterator
 - [ ] Memento
 - [ ] State
-- [ ] Mediator
+- [X] Mediator
 - [X] Chain of Responsibility
 - [ ] Visitor
 - [X] Interpreter
