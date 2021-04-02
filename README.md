@@ -1,6 +1,6 @@
-# design-patterns
+# Design-patterns
 
-The repo contains examples from "Java Design Patterns" by Vaskaran Sarcar
+The repo contains exercices for design patterns.
 
 
 ## Creational Patterns
