@@ -23,12 +23,12 @@ The repo contains exercices for design patterns.
 
 ## Behavioral Patterns
 
-- [ ] Observer
+- [X] Observer
 - [ ] Strategy
 - [ ] Template method
 - [X] Command
 - [X] Iterator
-- [ ] Memento
+- [X] Memento
 - [ ] State
 - [X] Mediator
 - [X] Chain of Responsibility
