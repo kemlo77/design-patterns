@@ -1,6 +1,14 @@
 package behavioral.state.first;
 
 class MuteState implements PossibleState {
+
+    TV context;
+
+    public MuteState(TV context) {
+        this.context = context;
+    }
+
+
     @Override
     public void pressOnButton(TV context) {
         //
@@ -8,11 +16,11 @@ class MuteState implements PossibleState {
 
     @Override
     public void pressOffButton(TV context) {
-        context.setCurrentState(new OffState());
+        this.context.setCurrentState(new OffState(this.context));
     }
 
     @Override
     public void pressMuteButton(TV context) {
-        context.setCurrentState(new OnState());
+        this.context.setCurrentState(new OnState(this.context));
     }
 }

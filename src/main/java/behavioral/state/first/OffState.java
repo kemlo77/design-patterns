@@ -1,9 +1,16 @@
 package behavioral.state.first;
 
 class OffState implements PossibleState{
+
+    TV context;
+
+    public OffState(TV context) {
+        this.context = context;
+    }
+
     @Override
     public void pressOnButton(TV context) {
-        context.setCurrentState(new OnState());
+        this.context.setCurrentState(new OnState(this.context));
     }
 
     @Override

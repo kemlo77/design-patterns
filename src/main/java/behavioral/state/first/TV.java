@@ -4,7 +4,7 @@ public class TV {
     private PossibleState currentState;
 
     public TV() {
-        this.currentState = new OffState();
+        this.currentState = new OffState(this);
     }
 
     public PossibleState getCurrentState() {
