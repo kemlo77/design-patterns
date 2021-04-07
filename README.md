@@ -24,7 +24,7 @@ The repo contains exercices for design patterns.
 ## Behavioral Patterns
 
 - [X] Observer
-- [ ] Strategy
+- [X] Strategy
 - [ ] Template method
 - [X] Command
 - [X] Iterator
