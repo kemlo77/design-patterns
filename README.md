@@ -29,7 +29,7 @@ The repo contains exercices for design patterns.
 - [X] Command
 - [X] Iterator
 - [X] Memento
-- [ ] State
+- [X] State
 - [X] Mediator
 - [X] Chain of Responsibility
 - [ ] Visitor
