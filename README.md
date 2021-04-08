@@ -32,6 +32,6 @@ The repo contains exercices for design patterns.
 - [X] State
 - [X] Mediator
 - [X] Chain of Responsibility
-- [ ] Visitor
+- [X] Visitor
 - [X] Interpreter
 
