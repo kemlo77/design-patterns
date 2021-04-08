@@ -25,7 +25,7 @@ The repo contains exercices for design patterns.
 
 - [X] Observer
 - [X] Strategy
-- [ ] Template method
+- [X] Template method
 - [X] Command
 - [X] Iterator
 - [X] Memento
