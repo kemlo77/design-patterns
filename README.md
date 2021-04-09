@@ -35,3 +35,6 @@ The repo contains exercices for design patterns.
 - [X] Visitor
 - [X] Interpreter
 
+## Other
+- [X] Null Object
+
