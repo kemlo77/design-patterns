@@ -37,4 +37,6 @@ The repo contains exercices for design patterns.
 
 ## Other
 - [X] Null Object
+- [X] Model View Controller
+
 
