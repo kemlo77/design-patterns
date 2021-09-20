@@ -1,4 +1,4 @@
-package structural.decorator;
+package structural.decorator.first;
 
 public class AbstractDecorator extends Component {
     protected Component component;
