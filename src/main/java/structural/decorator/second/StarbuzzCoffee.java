@@ -1,5 +1,7 @@
 package structural.decorator.second;
 
+import structural.decorator.second.Beverage.Size;
+
 public class StarbuzzCoffee {
 
   public static void main(String[] args) {
@@ -15,6 +17,7 @@ public class StarbuzzCoffee {
     printBeverage(beverage2);
 
     Beverage beverage3 = new HouseBlend();
+    beverage3.setSize(Size.VENTI);
     beverage3 = new Soy(beverage3);
     beverage3 = new Mocha(beverage3);
     beverage3 = new Whip(beverage3);
